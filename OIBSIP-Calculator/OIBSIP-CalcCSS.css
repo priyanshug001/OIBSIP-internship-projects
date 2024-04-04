@@ -1,0 +1,27 @@
+body {
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+
+input{
+    margin-right: 1%;
+}
+
+h1 {
+    text-align: center;
+    color: #000;
+}
+
+button {
+    background-color: #000000;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+#result {
+    margin-top: 20px;
+    font-size: 24px;
+    text-align: center;
+    color: #000000;
+}
